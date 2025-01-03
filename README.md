@@ -6,7 +6,7 @@ This project demonstrates **Named Entity Recognition (NER)** using **SpaCy**, a 
 The goal of this project is to showcase the simplicity of implementing NER with SpaCy and its potential as a foundation for more advanced NLP applications.
 
 ---
-
+**Application Link**: [NER ChatBot](https://name-entity-recognition-using-nlp-4zkxknz8boadp8shd2tahp.streamlit.app/)
 ## Installation
 
 1. **Clone the Repository:**
