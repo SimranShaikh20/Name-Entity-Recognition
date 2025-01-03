@@ -7,18 +7,6 @@ The goal of this project is to showcase the simplicity of implementing NER with 
 
 ---
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [File Structure](#file-structure)
-- [Libraries Used](#libraries-used)
-- [Future Enhancements](#future-enhancements)
-- [Author](#author)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-
----
-
 ## Installation
 
 1. **Clone the Repository:**
