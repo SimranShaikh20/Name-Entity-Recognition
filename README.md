@@ -59,8 +59,8 @@ NameEntityRecognition/
 ## Libraries Used
 
 - **SpaCy:** For performing Named Entity Recognition (NER) and other NLP tasks.
-- **Pandas:** For handling and analyzing data.
-- **Matplotlib/Seaborn:** For visualizing results (if applicable).
+- **Streamlit:** For creating fontend application .
+
 
 ---
 
