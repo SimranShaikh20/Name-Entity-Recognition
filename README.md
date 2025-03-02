@@ -11,7 +11,7 @@ The goal of this project is to showcase the simplicity of implementing NER with 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-repo/NameEntityRecognition.git
+   git clone https://github.com/SimranShaikh20/NameEntityRecognition.git
    cd NameEntityRecognition
    ```
 
