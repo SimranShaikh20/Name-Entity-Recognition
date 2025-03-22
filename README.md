@@ -65,6 +65,7 @@ NameEntityRecognition/
 ├── requirements.txt              # List of dependencies
 ├── README.md                     # Project documentation
 └── LICENSE                       # License file
+└── app.py                        #streamlit app
 ```
 
 ---
